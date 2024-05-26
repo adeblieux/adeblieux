@@ -50,3 +50,15 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
         <!-- placeholder -->
   </div>
 </div>
+
+name: Favorites manga and currently reading
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.manga.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: manga
+  plugin_anilist_sections: favorites, reading
+  plugin_anilist_limit: 1
+
