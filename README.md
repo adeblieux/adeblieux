@@ -11,7 +11,7 @@ _____________________________________
 ------------------------------------- 
 
 OS: Windows 10, iOS
-Shell: PowerShell, Bash, Zsh
+Shell: PowerShell, bash, zsh
 Host: Louisiana State University
 Kernel: Computer Science: Software Engineering
 IDE: VSCode 1.64.0
