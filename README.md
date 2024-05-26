@@ -1,4 +1,3 @@
-### Hi!! You've reached adeblieux's git! <br> I'm not in right now, please leave a message in my guestbook below! 
 <div align="center">
     <a href="https://github.com/adeblieux/adeblieux/issues/1">
         <img src="img/giphy (1).gif" alt="Book" width="150" height="150" />
