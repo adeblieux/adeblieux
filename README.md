@@ -1,4 +1,4 @@
-<img align="left" src="[https://i.redd.it/h7dae4o0uk461.jpg](https://tenor.com/view/patapata-gif-941360629596385757)" alt="Patapata GIF (https://tenor.com/view/patapata-gif-941360629596385757)" width="320" /> 
+<img align="left" src="https://tenor.com/view/patapata-gif-941360629596385757" alt="Patapata GIF (https://tenor.com/view/patapata-gif-941360629596385757)" width="320" /> 
 
 ```csharp
 adeblieux@github
