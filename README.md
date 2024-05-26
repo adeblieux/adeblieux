@@ -11,8 +11,6 @@ adeblieux@github:~$ ./welcome.sh
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
-System Information
 ------------------------------------- 
 OS: Windows 10, IOS
 Shell: powershell, bash, zsh
