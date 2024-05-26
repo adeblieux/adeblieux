@@ -12,8 +12,10 @@ adeblieux@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 
- ------------------------------------- 
+System Information
+------------------------------------- 
 OS: Windows 10, IOS
+Shell: powershell, bash, zsh
 Host: Louisiana State University
 Kernal: Compter Science: Software Engineering
 IDE: VSCode 1.64.0
@@ -21,7 +23,6 @@ IDE: VSCode 1.64.0
 Languages.Programming: C++, Python, Java, Javascript
 Languages.Computer: HTML5, CSS3, JSON, LaTex, Markdown
 Languages.Technology: Unity, Photoshop
- ------------------------------------- 
 ```
 
 ### Stats of Irrelavance
