@@ -1,4 +1,9 @@
-### hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wilted%20Flower.png" alt="Wilted Flower" width="25" height="25" />
+### hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! 
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wilted%20Flower.png" alt="Wilted Flower" width="18" height="18" />
+    <img src="img/d95it6h-ceaa1da3-727a-402f-8061-9a0a8e68af13.gif" alt="Black Cat Blinking Gif" width="50" height="50" />
+</div>
 
 ```console
 adeblieux@github:~$ ./welcome.sh
