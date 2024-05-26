@@ -43,8 +43,14 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 ### Stats of Irrelavance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />
 
 <!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php)](https://github.com/adeblieux/convoychat)
-
-<!-- Placeholder for GitHub Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/anuraghazra)
-
+<div style="display: flex;">
+  <!-- Most Used Languages -->
+  <a href="https://github.com/adeblieux/convoychat" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" alt="Top Langs" />
+  </a>
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/adeblieux" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=adeblieux&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="GitHub Stats" />
+  </a>
+</div>
