@@ -1,8 +1,8 @@
-### hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! 
-
+### hi! you've reached adeblieux's git! <br> i'm not in right now, please leave a message in my guestbook below! 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wilted%20Flower.png" alt="Wilted Flower" width="18" height="18" />
-    <img src="img/d95it6h-ceaa1da3-727a-402f-8061-9a0a8e68af13.gif" alt="Black Cat Blinking Gif" width="50" height="50" />
+    <a href="https://github.com/adeblieux/adeblieux/issues/1">
+        <img src="img/giphy (1).gif" alt="Book" width="150" height="150" />
+    </a>
 </div>
 
 ```console
@@ -41,3 +41,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)  
 ```
+
+<div align="center">
+    <img src="img/giphy (2).gif" alt="Book" width="75" height="75" /><img src="img/giphy.gif" alt="Book" width="50" height="50" />
+</div>
