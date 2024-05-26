@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
-## hi! you've reached adeblieux's git! <br> i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)!
+## hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)!
+
 
 ```console
 adeblieux@github:~$ ./welcome.sh
