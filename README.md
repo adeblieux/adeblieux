@@ -31,7 +31,8 @@ IDE: VSCode 1.64.0
 
 Languages.Programming: C++, Python, Java, JavaScript
 Languages.Computer: HTML5, CSS3, JSON, LaTeX, Markdown
-Languages.Technology: Unity, Photoshop
+Languages.Technology: Unity, Photoshop, Aesprite
+
 ------------------------------------- 
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
