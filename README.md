@@ -42,15 +42,15 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 ### Stats of Irrelavance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />
 
-<!-- Most Used Languages -->
+<!-- Most Used Languages and GitHub Stats Side by Side -->
 <div style="display: flex;">
   <!-- Most Used Languages -->
   <a href="https://github.com/adeblieux/convoychat" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" alt="Top Langs" style="width: 100%;" />
   </a>
   
   <!-- GitHub Stats -->
   <a href="https://github.com/adeblieux" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adeblieux&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adeblieux&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="GitHub Stats" style="width: 100%;" />
   </a>
 </div>
