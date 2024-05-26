@@ -1,4 +1,4 @@
-# Hi, you've reached adeblieux's Git! <br> I'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! .
+# Hi, you've reached adeblieux's git! <br> I'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! .
 
 ```console
 adeblieux@github:~$ ./welcome.sh
