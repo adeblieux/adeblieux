@@ -13,23 +13,6 @@ Languages.Computer: HTML5, CSS3, JSON, LaTex, Markdown
 Languages.Technology: Unity, Photoshop
 
 ```
-<div align="center">
-<a href="https://github.com/adeblieux/adeblieux/issues/1"><Guestbook></a> 
-</div>
-
-```
-Guestbook
-       ,..........   ..........,
-     ,..,'          '.'          ',..,
-    ,' ,'            :            ', ',
-   ,' ,'             :             ', ',
-  ,' ,'              :              ', ',
- ,' ,'............., : ,.............', ',
-,'  '............   '.'   ............'  ',
- '''''''''''''''''';''';''''''''''''''''''
-                    '''
-
-   ```
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
