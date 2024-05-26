@@ -51,7 +51,8 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
   
   <!-- GitHub Stats -->
   <a href="https://github.com/adeblieux" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adeblieux&show_icons=true&cache_seconds=86400&theme=transparent" alt="GitHub Stats" style="max-width: 45%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adeblieux&show_icons=true&cache_seconds=86400&theme=transparent&hide=issues" alt="GitHub Stats" style="max-width: 45%; height: auto;" />
   </a>
 </div>
+
 
