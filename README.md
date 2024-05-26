@@ -19,7 +19,7 @@ Languages.Technology: Unity, Photoshop
 </p>
 
 ```console
-trykatchup@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+adeblieux@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
 ```
