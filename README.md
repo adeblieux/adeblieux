@@ -19,6 +19,7 @@ _____________________________________
     /    \___________/    \
     \_____________________/
 ------------------------------------- 
+
 OS: Windows 10, iOS
 Shell: PowerShell, Bash, Zsh
 Host: Louisiana State University
