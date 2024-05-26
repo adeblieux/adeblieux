@@ -42,12 +42,9 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 ### Stats of Irrelavance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />
 
-<div style="width: 100%;">
-  <div style="display: flex;">
-        <!-- Most Used Languages -->
-       <a href="https://github.com/adeblieux/convoychat" style="flex: 0 1 50%;">
-         <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" />
-        <!-- placeholder -->
-        https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
-  </div>
-</div>
+<!-- Most Used Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php)](https://github.com/adeblieux/convoychat)
+
+<!-- Placeholder for GitHub Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/anuraghazra)
+
