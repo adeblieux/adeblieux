@@ -1,8 +1,18 @@
 # Hi, you've reached Addison's Git! <br> I'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! .
 
 ```csharp
-adeblieux@github
--------------------------
+adeblieux@github:~$ ./welcome.sh
+
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ ------------------------------------- 
 OS: Windows 10, IOS
 Host: Louisiana State University
 Kernal: Compter Science: Software Engineering
@@ -11,7 +21,7 @@ IDE: VCCode 1.64.0
 Languages.Programming: C++, Python, Java, Javascript
 Languages.Computer: HTML5, CSS3, JSON, LaTex, Markdown
 Languages.Technology: Unity, Photoshop
-
+ ------------------------------------- 
 ```
 
 ### Stats of Irrelavance
