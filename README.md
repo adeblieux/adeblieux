@@ -1,4 +1,4 @@
-# Hi, you've reached Addison's Git! <br> I'm not in right now, please leave a [message](https://github.com/adeblieux/adeblieux/issues/1) in my guestbook! .
+# Hi, you've reached Addison's Git! <br> I'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! .
 
 ```csharp
 adeblieux@github
