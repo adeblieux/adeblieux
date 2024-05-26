@@ -41,7 +41,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 <div style="width: 100%;">
   <div style="display: flex;">
-       <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
+       <a href="https://github.com/adeblieux/convoychat" style="flex: 0 1 50%;">
          <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" />
        </a>
        <a href="https://github.com/adeblieux/github-readme-stats" style="flex: 0 1 50%;">
