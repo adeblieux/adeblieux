@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
-### hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)!
+### hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" />
 
 
 ```console
@@ -40,7 +40,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
     '---''(_/--'  `-'\_)  
 ```
 
-### Stats of Irrelavance
+### Stats of Irrelavance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
 
 <div style="width: 100%;">
   <div style="display: flex;">
