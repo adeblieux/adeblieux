@@ -45,7 +45,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <!-- Most Used Languages -->
   <a href="https://github.com/adeblieux/convoychat" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" alt="Top Langs" style="max-width: 45%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue&hide_progress=true,php" alt="Top Langs" style="max-width: 45%; height: auto;" />
   </a>
   
   <!-- GitHub Stats -->
