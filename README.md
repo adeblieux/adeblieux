@@ -1,6 +1,6 @@
 # Hi, you've reached Addison's Git! <br> I'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! .
 
-```csharp
+```console
 adeblieux@github:~$ ./welcome.sh
 
  _____________________________________
