@@ -1,6 +1,8 @@
-<img align="center" src="img/watercolor_cat.gif" />
+<img align="right" src="img/watercolor_cat.gif" width="100" />
 
 ### hi! you've reached adeblieux's git! i'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wilted%20Flower.png" alt="Wilted Flower" width="25" height="25" />
+
+<img align="center" src="img/Mewo Omori GIF - Mewo Omori - Discover & Share GIFs.gif" />
 
 
 ```console
@@ -39,5 +41,3 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)  
 ```
-
-
