@@ -44,8 +44,8 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
        <a href="https://github.com/adeblieux/convoychat" style="flex: 0 1 50%;">
          <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeblieux&layout=compact&hide=vue,php" />
        </a>
-       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+       <a href="https://github.com/adeblieux/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/Addison?adeblieux=@&compact=True"/>
        </a>
   </div>
 </div>
