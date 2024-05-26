@@ -3,7 +3,7 @@
 ```console
 adeblieux@github:~$ ./welcome.sh
 ```
-```bash
+```zsh
 _____________________________________
 < Welcome to my personal github page! >
 ------------------------------------- 
