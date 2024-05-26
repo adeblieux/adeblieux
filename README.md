@@ -16,7 +16,7 @@ adeblieux@github:~$ ./welcome.sh
 OS: Windows 10, IOS
 Host: Louisiana State University
 Kernal: Compter Science: Software Engineering
-IDE: VCCode 1.64.0
+IDE: VSCode 1.64.0
 
 Languages.Programming: C++, Python, Java, Javascript
 Languages.Computer: HTML5, CSS3, JSON, LaTex, Markdown
