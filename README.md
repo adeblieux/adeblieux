@@ -1,8 +1,8 @@
 # Hi, you've reached adeblieux's git! <br> I'm not in right now, please leave a message in my [guestbook](https://github.com/adeblieux/adeblieux/issues/1)! .
 
 ```bash
+adeblieux@github:~$ ./welcome.sh
 
-cat << "EOF"
 _____________________________________
 < Welcome to my personal github page! >
 ------------------------------------- 
@@ -20,9 +20,6 @@ IDE: VSCode 1.64.0
 Languages.Programming: C++, Python, Java, JavaScript
 Languages.Computer: HTML5, CSS3, JSON, LaTeX, Markdown
 Languages.Technology: Unity, Photoshop
-EOF
-
-
 ```
 
 ### Stats of Irrelavance
