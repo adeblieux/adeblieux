@@ -3,15 +3,15 @@
 ```csharp
 adeblieux@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: She/Her
-Location: New Orleans, USA
-Frameworks: React
-Languages: JavaScript, Java,
-           HTML, CSS
-Learning: Node.js, Three.js, React.js
-Hobbies: Reading, Gaming, Gardening
+OS: Windows 10, IOS
+Host: Louisiana State University
+Kernal: Compter Science: Software Engineering
+IDE: VCCode 1.64.0
+
+Languages.Programming: C++, Python, Java, Javascript
+Languages.Computer: HTML5, CSS3, JSON, LaTex, Markdown
+Languages.Technology: Unity, Photoshop
+
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
