@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/giphy (2).gif" alt="Book" width="75" height="75" /><img src="img/giphy.gif" alt="Book" width="50" height="50" />
+    <img src="img/plant.gif" alt="Book" width="75" height="75" /><img src="img/black_cat.gif" alt="Black Cat" width="50" height="50" />
 </div>
 
 ```console
@@ -33,6 +33,6 @@ Languages.Technology: Unity, Photoshop, Aesprite
 
 <div align="center">
     <a href="https://github.com/adeblieux/adeblieux/issues/1">
-        <img src="img/giphy (1).gif" alt="Book" width="150" height="150" />
+        <img src="img/book.gif" alt="Book" width="150" height="150" />
     </a>
 </div>
