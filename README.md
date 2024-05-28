@@ -34,7 +34,7 @@ Languages.Technology: Unity, Photoshop, Aesprite
                 - (|(|(/_|)||(/_L|><
 
 ```
-
+<br>
 <div align="center">
     <a href="https://github.com/adeblieux/adeblieux/issues/1">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXViMWRiMGVzanNvMXp5Zzd1ZHVsOWRxdDd2N2RoejFhajZ1OXo3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQCpLR6h1ZdlogAT9g/giphy.gif" alt="Book" width="150" height="150" />
