@@ -3,11 +3,12 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1yOGNyYXQ0aXVpcmIwYjg2OWIzajgzZ25saGJkenpud2ozNnNwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" alt="Black Cat" width="50" height="50" />
 </div>
 
-<img align="left" src="https://cdnb.artstation.com/p/assets/images/images/009/604/887/original/pixel-jeff-after-rain-l.gif?1519903093" width="320" />
-
 ```console
 adeblieux@github:~$ ./welcome.sh
 ```
+
+<img align="left" src="https://cdnb.artstation.com/p/assets/images/images/009/604/887/original/pixel-jeff-after-rain-l.gif?1519903093" width="320" />
+
 ```
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
