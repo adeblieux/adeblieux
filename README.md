@@ -7,7 +7,7 @@
 adeblieux@github:~$ ./welcome.sh
 ```
 
-<img align="left" src="/img/tumblr_7her4ja.gif" width="280" />
+<img align="left" src="/img/tumblr-7her4ja.gif" width="280" />
 
 ```
       |\      _,,,---,,_
