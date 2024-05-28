@@ -7,7 +7,7 @@
 adeblieux@github:~$ ./welcome.sh
 ```
 
-<img align="left" src="https://cdnb.artstation.com/p/assets/images/images/009/604/887/original/pixel-jeff-after-rain-l.gif?1519903093" width="270" />
+<img align="left" src="/img/tumblr_7her4ja.gif" width="270" />
 
 ```
       |\      _,,,---,,_
