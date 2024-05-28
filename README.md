@@ -10,7 +10,6 @@ adeblieux@github:~$ ./welcome.sh
 ```
 
 ```
-
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
@@ -30,7 +29,6 @@ Languages.Computer: HTML5, CSS3, JSON, LaTeX, Markdown
 Languages.Technology: Unity, Photoshop, Aesprite
 
 ------------------------------------- 
-
                      | _ | |. _     
                 - (|(|(/_|)||(/_L|><
 
