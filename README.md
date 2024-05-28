@@ -8,7 +8,6 @@
 ```console
 adeblieux@github:~$ ./welcome.sh
 ```
-
 ```
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
