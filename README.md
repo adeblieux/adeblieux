@@ -25,8 +25,8 @@ Languages.Computer: HTML5, CSS3, JSON, LaTeX, Markdown
 Languages.Technology: Unity, Photoshop, Aesprite
 
 ------------------------------------- 
-     | _ | |. _     
-- (|(|(/_|)||(/_L|><
+                         | _ | |. _     
+                    - (|(|(/_|)||(/_L|><
 
 ```
 
