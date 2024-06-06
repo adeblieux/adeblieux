@@ -1,6 +1,10 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ5cGJuZnVvMGs2bjg4bWo4MjhhcHdqZWVxdDczMzk4djZld3pxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif" alt="Plant" width="75" height="75" />
+     <a href="https://www.flowermeaning.com/">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ5cGJuZnVvMGs2bjg4bWo4MjhhcHdqZWVxdDczMzk4djZld3pxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6cyetttpTEhNqTJ8ZL/giphy.gif" alt="Plant" width="75" height="75" />
+    </a>
+    <a href="https://www.catoftheday.com/">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1yOGNyYXQ0aXVpcmIwYjg2OWIzajgzZ25saGJkenpud2ozNnNwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" alt="Black Cat" width="50" height="50" />
+    </a> 
 </div>
 
 ```console
